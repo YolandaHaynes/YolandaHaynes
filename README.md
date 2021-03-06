@@ -6,11 +6,11 @@ I am making a career pivot from an occupational therapy assistant to a full stac
 - 🔭 I’m currently working on creating my profile webpage and making it more accessible and trying my hand at contributing to some open-source.
 - 🌱 I’m currently learning HTML, CSS, Javascript and in the near future will be learning React, Node, Express, MongoDB, and Postgres. 
 - 👯 I’m looking to collaborate on open-source projects and learn how to do pair programing to improve my skills as a new developer. 
-- 🤔 I’m looking for help with how to code using best pracitces and accesibility. 
+- 🤔 I’m looking for help with how to code using best practices and accessibility. 
 - 💬 Ask me about anything!
 - 📫 How to reach me: message me on twitter!
 - 😄 Pronouns: she/her
-- ⚡ Fun facts: I speak two langauges, English and Japanese. I enjoy playing video games like animal crossing and RPGs.  I have lived, studied and worked abroad in Japan collectively for about 3 years.
+- ⚡ Fun facts: I speak two languages, English and Japanese. I enjoy playing video games like animal crossing and RPGs.  I have lived, studied and worked abroad in Japan collectively for about 3 years.
 
 <!--
 **YolandaHaynes/YolandaHaynes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
