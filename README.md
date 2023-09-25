@@ -3,14 +3,14 @@
 I'm a career changer from a COTA (certified occupational therapy assistant) to a Software Engineer 😄
 
 
-- 🔭 I’m currently working on my personal projecrt and contributing to some various open-source projects. 
-- 🌱 I’m currently learning JavaScript, React, Node, Express, MongoDB, and Postgres. 
-- 👯 I’m looking to do more pair programing to improve my skills as a new developer and looking blogging/streaming as a way for me to look back of how far I've come.
-- 🤔 I’m looking for ways to improve my skills in accessibility. 
+- 🔭 I'm a people person and love to help out, so I try and get involved in various tech communities and open-source projects. :heart:
+- 🌱 I’m currently working on updating my awesome Bookstache application from CRUD app to a full-stack using RedwoodJs, so please keep an eye out for the new and improved Bookstache 2.0 😄
+- 👯 Collaboration? I'm your gal! I love working with others because I always learn something new!
+- 🤔 Yup that emoji face says it all, when I get lost or confused, I always ask questions! I want to understand even if I'm lost in the sauce.
 - 💬 Ask me about anything!
 - 📫 How to reach me: message me on twitter!
 - 😄 Pronouns: she/her
-- ⚡ Fun facts: I speak two languages, English and Japanese. I enjoy playing video games like animal crossing and RPGs.  I have lived, studied and worked abroad in Japan collectively for about 8 years.
+- ⚡ Fun facts: I speak two languages, English and Japanese. I enjoy playing video games like Animal Crossing and RPGs.  I have lived, studied, and worked abroad in Japan collectively for about eight years.
 
 <!--
 **YolandaHaynes/YolandaHaynes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
