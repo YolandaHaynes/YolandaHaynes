@@ -1,6 +1,6 @@
 # Hi there 👋 My name Yolanda!
 
-I'm a career changer from a COTA (certified occupational therapy assistant) to a Software Engineer 😄
+I'm a career transformer from a COTA (certified occupational therapy assistant) to a Software Engineer 😄
 
 
 - 🔭 I'm a people person and love to help out, so I try and get involved in various tech communities and open-source projects. :heart:
